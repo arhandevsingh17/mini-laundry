@@ -152,11 +152,16 @@ http://localhost:5173/
 
 ## 🌍 Deployment
 
-Frontend: (add your Vercel link)
-Backend: (add your Render link)
+## 🌍 Live Demo
+
+Frontend: https://mini-laundry-ten.vercel.app  
+Backend: https://mini-laundry-d795.onrender.com
 
 ---
 
 ## 📌 Conclusion
 
 This project demonstrates rapid development using AI tools combined with manual problem-solving, debugging, and system design thinking.
+
+## Note:
+The frontend uses in-memory state for simplicity and speed of development. Backend APIs were implemented separately but not integrated to keep the system lightweight and avoid overengineering.
