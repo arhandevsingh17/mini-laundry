@@ -150,7 +150,6 @@ http://localhost:5173/
 
 ---
 
-## 🌍 Deployment
 
 ## 🌍 Live Demo
 
